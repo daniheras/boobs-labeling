@@ -1,0 +1,6 @@
+dni_2_anverso
+dni_2_reverso
+dni_2_holograma
+dni_3_anverso
+dni_3_reverso
+dni_3_holograma
